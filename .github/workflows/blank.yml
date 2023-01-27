@@ -35,4 +35,4 @@ jobs:
           script: |
             whoami
             cd LastTest
-            git pull origin master
+            git pull origin main
